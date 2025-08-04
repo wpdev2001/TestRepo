@@ -6,6 +6,8 @@ public class Test2 {
         System.out.println("This first line from test2 modified by sk");
         /**
          * Implemented a quick fix
+         * Very important 
+         * code here
          */
     }
 }
